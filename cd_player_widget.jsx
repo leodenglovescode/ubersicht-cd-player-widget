@@ -54,7 +54,7 @@ if [[ "$hasArt" == "true" ]]; then
 fi
 
 # --- GFW / PROXY CONFIGURATION ---
-PROXY_URL="http://127.0.0.1:7890"
+PROXY_URL=""
 
 # --- API Cache Check ---
 CACHE_FILE="./music-cache.txt"
