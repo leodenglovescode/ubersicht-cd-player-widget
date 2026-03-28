@@ -1,0 +1,13 @@
+{
+  "name": "apple-music-cd.widget",
+  "version": "1.0.0",
+  "description": "A spinning CD player for Apple Music with GFW/Proxy support.",
+  "author": "leodenglovescode",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leodenglovescode/apple-music-cd.widget.git"
+  },
+  "uebersicht": {
+    "screenshot": "preview.png"
+  }
+}
